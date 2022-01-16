@@ -1,7 +1,8 @@
-
-
+# HackerRank Solutions Repository
 
 
 ## Challenges
-| Title             | Link  | Language | File
-Flipping the Matrix | https://www.hackerrank.com/challenges/flipping-the-matrix/problem | Typescript | Flipping the Matrix.ts
+|  Title   | Language | File | Link |
+| ------------ | ------------ | ------ | ----- |
+|  Flipping the Matrix |  Typescript |  Flipping the Matrix.ts | https://www.hackerrank.com/challenges/flipping-the-matrix/problem |
+|   |   |   |   |
