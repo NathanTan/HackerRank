@@ -48,7 +48,6 @@ const test1 = {
 }
 
 const test2 = {
-
     str1: "",
     str2: "",
     output: []
